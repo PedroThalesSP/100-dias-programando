@@ -1,0 +1,22 @@
+1°Dia
+- Cuidado com as palavras reservadas da linguagem
+- Cuidados com o uso de ";".
+- Uso dos comentarios (/**/).
+- Tipos de Primitivos: numéricos (números), sequencia de texto ou (strings), verdadeiro ou falso (booleanos).
+
+2°Dia
+- Uso do s.length para ver o tamanha de strings e arrays.
+- Uso do Date.
+- Uso de aspas simples '' e duplas "".
+- como fundir as simples ou duplas com o + para  concatenar.
+
+3°Dia
+- Valores booleanos.
+- Uso do "==" para comparar um valor.
+- If e else para comprar um booleano.
+- Underfined, null, o, -o, NaN, ""
+
+4°Dia
+- Alguns métodos que podemos usar em strings.
+
+6°Dia

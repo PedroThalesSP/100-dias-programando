@@ -20,3 +20,4 @@
 - Alguns métodos que podemos usar em strings.
 
 6°Dia
+- Coloquei algumas teorias em prática

@@ -21,3 +21,6 @@
 
 6°Dia
 - Coloquei algumas teorias em prática
+
+7°Dia
+- Variavel, booleanos, conversão de strings para numeros e calculos e concatenação. 

@@ -73,3 +73,5 @@
 // // Podemos usar a função Typeof para ver qual o valor pertence a variavel
 // let valor = true;
 // console.log (typeof(valor));
+
+// Variavel, booleanos, conversão de strings para numeros e calculos e concatenação. 

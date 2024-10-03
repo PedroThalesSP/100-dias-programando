@@ -7,7 +7,11 @@
 - Criação de um pequeno programa para calculo de IMC.
 - Criação de variaveis.
 - Uso dos seguintes recursos:
- float ou string = variavel.NextFloat();
- System.out.println("");
-  concatenação usando o "+"
- if, if else, else.
+ -float ou string = variavel.NextFloat();
+ -System.out.println("");
+ - concatenação usando o "+"
+ -if, if else, else.
+
+8°Dia 
+- Exercicio para calcular o IMC.
+- Uso de Arrays e laços de repetição

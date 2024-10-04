@@ -75,3 +75,79 @@
 // console.log (typeof(valor));
 
 // Variavel, booleanos, conversão de strings para numeros e calculos e concatenação. 
+
+///////////     comparadores if, if else e else   //////////////////////
+
+/*
+
+a estutura é a seguinte
+let idadeA = 20;
+let idadeB = 20;
+
+if (idadeA > idadeB) {
+    console.log ("A idade 'A' é maior que idade 'B' ,sendo esta = " + idadeA)
+}
+
+else if (idadeA < idadeB) {
+    console.log("A idade de 'B'  é maior que idade de 'A' , esta= " + idadeB)
+}
+
+else {
+    console.log(" A idade 'A' é igual a idade 'B' ");
+}
+*/
+
+
+//////////////// Conditional operator  "?" e ";" //////////////////
+
+/*
+let nome = "João";
+let verificacao = nome == "João" ? "Sim" : "Não";
+console.log(" A verificação tem o resultado " + verificacao);
+*/
+
+
+///////////////////////////// Ciclos /////////////////////////////////
+
+/* 
+
+While
+a estutura é a seguinte
+
+While (condição) {
+código é executado
+ }
+
+let numero = 1;
+while ( numero <= 10){
+    console.log(numero)
+    numero++;
+}
+
+let numeroDois = 10;
+    while (numeroDois >= 1 ) {
+    console.log(numeroDois);
+numeroDois--;
+}
+
+*/
+
+//Do ... while
+
+// let numero = 1;
+// do {
+//     console.log(numero);
+//     numero++;
+// } while (numero <= 10);
+
+// Quebra de ciclos
+
+// let numero = 1;
+// do {
+//     console.log(numero);
+//     numero++;
+//     if (numero > 6 ) break;
+// } while (numero <= 10);
+
+
+

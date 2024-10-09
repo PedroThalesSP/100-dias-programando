@@ -188,8 +188,6 @@ numeroDois--;
 
 
 
-
-
 // -------------------------------------- Object------------------------------------------------------------------------------------------------------------------------------------------------------
 
 // Em JavaScript, um objeto é uma entidade independente, com propriedades e tipos. Compare-o com uma xícara, por exemplo. 
@@ -237,16 +235,8 @@ console.log(pessoa.carros.Corsa.placa);
 
 
 
-
-
-
-
-
-
-
-
 // -------------------------------------- Array------------------------------------------------------------------------------------------------------------------------------------------------------
-// O objeto Array do JavaScript é um objeto global usado na construção de 'arrays': objetos de alto nível semelhantes a listas.
+/* O objeto Array do JavaScript é um objeto global usado na construção de 'arrays': objetos de alto nível semelhantes a listas.
 let lista = [ "leite", "ovos", "torta", "Arroz"];
 console.log(lista.length) // ver o tamanho da lista
 console.log(lista[0])
@@ -260,3 +250,73 @@ console.log(lista);
 
 let procurar = lista.indexOf("torta"); // procurar um item da lista
 console.log(procurar);
+*/
+
+
+
+
+
+// -------------------------------------- hoisting e Escopo ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/*
+- Definição de Hoisting: JavaScript Hoisting se refere ao processo pelo
+qual o interpretador parece mover a declaração de funções, variáveis, classes ou 
+importações para o topo de seu escopo , antes da execução do código.
+*/
+
+// console.log(nome); // sabe que existe, mas deixa indefinida
+// var nome = "Pedro";
+
+// {
+//     console.log(nome)  // Já aqui o código consegue ler
+// }
+
+// - Definição de Escopo: O escopo é o contexto atual de execução no qual valores e 
+// expressões são "visíveis" ou podem ser referenciados. Se uma variável ou expressão 
+// não estiver no escopo atual, ela não estará disponível para uso. Os escopos também 
+// podem ser dispostos em camadas em uma hierarquia, de modo que os escopos filhos tenham 
+// acesso aos escopos pais, mas não vice-versa.
+
+
+// Erro, pois estamos usando o let e este não consegue let um escopo interno, além de declarações anteriores.
+// console.log(sobrenome); 
+
+
+//variaveis fora do escopo
+// let sobrenome = "Thales";
+// console.log(sobrenome)
+
+// { escopo interno e independente do de fora, mesmo que tenha o mesmo nome definido.
+
+
+    // Aqui o código consegue ser lido, porém dentro do escopo criado e nada fora. 
+    // (Olhar o exemplo anterior e ver o erro que pode ocasionar e ver que são duas variaveis com o mesmo nome, mas diferentes)
+    // let sobrenome = "ThalesSP";
+    // console.log(sobrenome)  // Já aqui o código consegue ler
+// }
+
+
+// -------------------------------------- Boas Práticas em nome de variaveis------------------------------------------------------------------------------------------------------------------------------------------------------
+/*
+
+explique sua variavel
+- Sempre deixe claro no nome da variavel o que esta esta fazendo
+    ex: let nome = "Pedro";
+    ex: let CPF = 03651612100;
+
+snake_Case
+- Signififica que sempre que houver um espaço entre um nome e outro fazer a utilização do "_".
+    ex: let nome_completo = "";
+    ex: let CPF_do_usuario = 03651612100;
+
+camelCase
+- Siginifica que entre um espaço e outro haverá a utilização de uma letra maiúscula.
+    ex: let nomeDoUsuario = "";
+    ex: Let CPF_Do_Usuario = underfined;
+
+Sempre use nomes em inglês, pois seu código deve ser universal.
+    ex: let UserName = "";
+    ex: let CPF_of_user = underfined;
+
+*/

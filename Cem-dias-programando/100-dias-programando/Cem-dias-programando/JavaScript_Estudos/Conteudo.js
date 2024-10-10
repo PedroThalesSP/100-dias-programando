@@ -320,3 +320,75 @@ Sempre use nomes em inglês, pois seu código deve ser universal.
     ex: let CPF_of_user = underfined;
 
 */
+
+// -------------------------------------- Agrupamento de declarações ------------------------------------------------------------------------------------------------------------------------------------------------------
+// Nada mais que colocar suas variaveis lado a lado com uma virgula para separar uma da outra
+
+// let name, age, isHuman; // variaveis lado a lado 
+// name = "Pedro";
+// age = 21;
+// isHuman = true;
+
+// console.log(name,age,isHuman); // para colocar mais variaveis dentro do console, basta colocar uma virgula.
+// console.log( "O nome dele é " + name + ", tem " + age, "e é " + isHuman) // para colocar texto mais variaveis, basta add p "+" ou
+// console.log(`O nome dele é ${name} , tem ${age} anos e é ${isHuman}`); // Você também pode pode usar aspas ao contrario mais o "$" e "{}"
+
+
+// -------------------------------------- Revisão de objeto ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+// const person = {
+//     name: {
+    // firtName: "Pedro",
+    // lastName: "Thales",
+    // },
+    // age: 20,
+    // weight: 72,
+    // height: 1.87,
+    // isAdmin: true,
+
+
+// }
+
+// console.log(person) // todos os parâmetros aparecem.
+// console.log(person.name.firtName) // Com o uso do "." você pode selecionar um por um.
+// console.log(`O nome dele é ${person.name.firtName}, seu sobrenome é ${person.name.lastName}, tem ${person.age} de idade`)
+
+// -------------------------------------- Revisão de Array ------------------------------------------------------------------------------------------------------------------------------------------------------
+
+// let marketList = [ "milk", "egg", "apple", "cake", ];
+// console.log(marketList[0]); // achar o item deve ter o nome da lista mais seu parâmetro
+// console.log(marketList.length); // ver o tamanho do item
+// let toAdd;
+
+// toAdd = marketList.push ("water", "pizza") // metodo "push" para adicionar
+// console.log (marketList);
+//  console.log (marketList.length);
+
+
+// Objeto + arrays
+let student = {
+
+
+    nameOne: {
+    firtName: "Pedro",
+    lastName: "Lucas",
+    age: 20,
+    weight: 72,
+    height: 1.87,
+    },
+
+
+    nameDuo:{
+        firtName: "João",
+        lastName: "Silva",
+        age: 22,
+        weight: 80,
+        height: 1.70,
+    }
+}
+
+let students = [
+    student,
+]
+
+console.log(students.student[0]);

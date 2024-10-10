@@ -366,29 +366,60 @@ Sempre use nomes em inglês, pois seu código deve ser universal.
 
 
 // Objeto + arrays
-let student = {
+// let student = {
 
 
-    nameOne: {
-    firtName: "Pedro",
-    lastName: "Lucas",
-    age: 20,
-    weight: 72,
-    height: 1.87,
-    },
+//     nameOne: {
+//     firtName: "Pedro",
+//     lastName: "Lucas",
+//     age: 20,
+//     weight: 72,
+//     height: 1.87,
+//     },
 
 
-    nameDuo:{
-        firtName: "João",
-        lastName: "Silva",
-        age: 22,
-        weight: 80,
-        height: 1.70,
-    }
+//     nameDuo:{
+//         firtName: "João",
+//         lastName: "Silva",
+//         age: 22,
+//         weight: 80,
+//         height: 1.70,
+//     }
+// }
+
+// let students = [
+//     student,
+// ]
+
+// console.log(students.student[0]);
+
+// -------------------------------------- Function ------------------------------------------------------------------------------------------------------------------------------------------------------
+//Uma função é um procedimento de JavaScript um conjunto de instruções que executa uma tarefa ou calcula um valor. Para usar uma função, 
+//você deve defini-la em algum lugar no escopo do qual você quiser chamá-la.
+
+//Criar um aplicativo se frases motivacionais
+function createPhrases() { // podemos chamar a função para qualquer momento do meu código, pois este fica em um espaço de memoria.
+console.log('Estudar é muito bom');
+console.log("Paciência e persistência");
+console.log("Revisão é mãe do apremdizado");
+
 }
 
-let students = [
-    student,
-]
+// createPhrases() // chamamos/ invocamos/ executamos a função.
 
-console.log(students.student[0]);
+// function printprops(o){ // função com parametro
+//     for (var p in o)
+//             console.log(p + ":" + p[p] + "\n");
+// }
+
+function soma_valor(){
+    let n1 = 2;
+    let n2 = 10;
+    let soma = n1 + n2;
+    console.log(soma)
+
+}
+
+for (let i = 0; i < 10; i++){
+    soma_valor()
+}

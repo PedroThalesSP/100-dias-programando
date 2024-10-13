@@ -355,14 +355,14 @@ Sempre use nomes em inglês, pois seu código deve ser universal.
 
 // -------------------------------------- Revisão de Array ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-// let marketList = [ "milk", "egg", "apple", "cake", ];
-// console.log(marketList[0]); // achar o item deve ter o nome da lista mais seu parâmetro
-// console.log(marketList.length); // ver o tamanho do item
-// let toAdd;
+let marketList = [ "milk", "egg", "apple", "cake", ];
+console.log(marketList[2]); // achar o item deve ter o nome da lista mais seu parâmetro
+console.log(marketList.length); // ver o tamanho do item
+let toAdd;
 
-// toAdd = marketList.push ("water", "pizza") // metodo "push" para adicionar
-// console.log (marketList);
-//  console.log (marketList.length);
+toAdd = marketList.push ("water", "pizza",) // metodo "push" para adicionar
+console.log (marketList);
+ console.log (marketList.length);
 
 
 // Objeto + arrays
@@ -398,28 +398,28 @@ Sempre use nomes em inglês, pois seu código deve ser universal.
 //você deve defini-la em algum lugar no escopo do qual você quiser chamá-la.
 
 //Criar um aplicativo se frases motivacionais
-function createPhrases() { // podemos chamar a função para qualquer momento do meu código, pois este fica em um espaço de memoria.
-console.log('Estudar é muito bom');
-console.log("Paciência e persistência");
-console.log("Revisão é mãe do apremdizado");
+// function createPhrases() { // podemos chamar a função para qualquer momento do meu código, pois este fica em um espaço de memoria.
+// console.log('Estudar é muito bom');
+// console.log("Paciência e persistência");
+// console.log("Revisão é mãe do apremdizado");
 
-}
-
-// createPhrases() // chamamos/ invocamos/ executamos a função.
-
-// function printprops(o){ // função com parametro
-//     for (var p in o)
-//             console.log(p + ":" + p[p] + "\n");
 // }
 
-function soma_valor(){
-    let n1 = 2;
-    let n2 = 10;
-    let soma = n1 + n2;
-    console.log(soma)
+// // createPhrases() // chamamos/ invocamos/ executamos a função.
 
-}
+// // function printprops(o){ // função com parametro
+// //     for (var p in o)
+// //             console.log(p + ":" + p[p] + "\n");
+// // }
 
-for (let i = 0; i < 10; i++){
-    soma_valor()
-}
+// function soma_valor(){
+//     let n1 = 2;
+//     let n2 = 10;
+//     let soma = n1 + n2;
+//     console.log(soma)
+
+// }
+
+// for (let i = 0; i < 10; i++){
+//     soma_valor()
+// }

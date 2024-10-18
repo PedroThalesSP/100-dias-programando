@@ -71,4 +71,7 @@
 - Exercicios
 
 19°Dia
-- Criação de um jogo usando Htm, CSS e JS
+- Criação de um jogo usando Html, CSS e JS
+
+20°Dia
+- Criação do ambiente para o jogo em HTML, CSS e JS 

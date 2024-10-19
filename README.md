@@ -50,28 +50,31 @@
 - Hoisting e Escopo.
 
 13°Dia
-- Agrupamento
-- Array + objetos
-- Revisão
+- Agrupamento.
+- Array + objetos.
+- Revisão.
 
 14°Dia
-- Function
+- Function.
 
 15°Dia
 - Revisão
-- Operador "&&" e "||"
+- Operador "&&" e "||".
 
 16°Dia
-- Revisão
+- Revisão.
 
 17°Dia
-- Prática
+- Prática.
 
 18°Dia
-- Exercicios
+- Exercicios.
 
 19°Dia
-- Criação de um jogo usando Html, CSS e JS
+- Criação de um jogo usando Html, CSS e JS.
 
 20°Dia
-- Criação do ambiente para o jogo em HTML, CSS e JS 
+- Criação do ambiente para o jogo em HTML, CSS e JS.
+
+21° Dia
+- Criando um site e o ambiente com as functions do jogo. 

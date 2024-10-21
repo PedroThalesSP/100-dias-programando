@@ -77,4 +77,7 @@
 - Criação do ambiente para o jogo em HTML, CSS e JS.
 
 21° Dia
-- Criando um site e o ambiente com as functions do jogo. 
+- Criando um site e o ambiente com as functions do jogo.
+
+22°Dia
+- Estilização e modificações das tags do jogo.

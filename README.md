@@ -81,3 +81,6 @@
 
 22°Dia
 - Estilização e modificações das tags do jogo.
+
+23° Dia
+- Finalização do site.

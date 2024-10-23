@@ -84,3 +84,6 @@
 
 23° Dia
 - Finalização do site.
+
+24°
+- Site finalizado.

@@ -87,3 +87,6 @@
 
 24°
 - Site finalizado.
+
+25°
+- Novo projeto de site inicializado.

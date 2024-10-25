@@ -85,8 +85,11 @@
 23° Dia
 - Finalização do site.
 
-24°
+24° Dia      
 - Site finalizado.
 
-25°
+25° Dia
 - Novo projeto de site inicializado.
+
+26° Dia
+- Estrutura html.

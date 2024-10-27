@@ -1,4 +1,4 @@
-# 100-dias-programando
+eu# 100-dias-programando
 #Anotações Gerais dos dias#
 
 1° Dia
@@ -96,3 +96,6 @@
 
 27°
 - Estutura html.
+
+28°
+- planejamento do CSS

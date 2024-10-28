@@ -94,8 +94,11 @@ eu# 100-dias-programando
 26° Dia
 - Estrutura html.
 
-27°
+27° DIa
 - Estutura html.
 
-28°
-- planejamento do CSS
+28° DIa
+- planejamento do CSS.
+
+29° DIa
+- botões no Css.

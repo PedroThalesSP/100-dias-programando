@@ -1,4 +1,4 @@
-eu# 100-dias-programando
+ineu# 100-dias-programando
 #Anotações Gerais dos dias#
 
 1° Dia
@@ -102,3 +102,7 @@ eu# 100-dias-programando
 
 29° DIa
 - botões no Css.
+
+30° DIa
+
+- imagens do site.

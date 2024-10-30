@@ -104,5 +104,7 @@ ineu# 100-dias-programando
 - botões no Css.
 
 30° DIa
-
 - imagens do site.
+
+31° Dia
+- estudo de flex-box

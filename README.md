@@ -108,3 +108,6 @@ ineu# 100-dias-programando
 
 31° Dia
 - estudo de flex-box
+
+32° Dia
+- Estilização do header do novo site.

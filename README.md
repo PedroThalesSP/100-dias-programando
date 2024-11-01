@@ -111,3 +111,6 @@ ineu# 100-dias-programando
 
 32° Dia
 - Estilização do header do novo site.
+
+33° Dia
+- header do site feito, estudo de flex-box e media query.

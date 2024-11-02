@@ -114,3 +114,6 @@ ineu# 100-dias-programando
 
 33° Dia
 - header do site feito, estudo de flex-box e media query.
+
+34° Dia
+- criação do main da página

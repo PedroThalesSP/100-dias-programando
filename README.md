@@ -120,3 +120,7 @@ ineu# 100-dias-programando
 
 34° Dia
 - criação do main da página
+
+35° Dia
+
+- Estilização da main concluída.

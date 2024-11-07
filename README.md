@@ -124,3 +124,9 @@ ineu# 100-dias-programando
 35° Dia
 
 - Estilização da main concluída.
+
+36° Dia
+-Footer do site
+
+37° Dia
+- Midia Query

@@ -130,3 +130,6 @@ ineu# 100-dias-programando
 
 37° Dia
 - Midia Query
+ 
+38° Dia
+- css midia queery

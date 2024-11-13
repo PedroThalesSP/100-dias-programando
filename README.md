@@ -122,7 +122,6 @@ ineu# 100-dias-programando
 - criação do main da página
 
 35° Dia
-
 - Estilização da main concluída.
 
 36° Dia
@@ -135,5 +134,8 @@ ineu# 100-dias-programando
 - css midia queery
 
 39° Dia
+- css midia queery
+
+40° Dia
 - css midia queery
 

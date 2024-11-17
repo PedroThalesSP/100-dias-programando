@@ -142,3 +142,6 @@ ineu# 100-dias-programando
 41° Dia
 - Novo site
 
+42° Dia
+- CSS, HTML e BD
+

@@ -160,5 +160,9 @@ ineu# 100-dias-programando
 47° Dia
 - CSS, HTML
 
-- 48
+48° Dia
+- CSS, HTML, js
+
+49° Dia
+- CSS, HTML, js
 

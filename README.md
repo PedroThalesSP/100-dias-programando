@@ -1,4 +1,4 @@
-ineu# 100-dias-programando
+Oiineu# 100-dias-programando
 #Anotações Gerais dos dias#
 
 1° Dia
@@ -180,3 +180,7 @@ ineu# 100-dias-programando
 
 54° Dia
 - HTML, css, js
+
+55° Dia
+- js
+

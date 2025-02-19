@@ -246,3 +246,12 @@ Oiineu# 100-dias-programando
 
 76° Dia
 - js
+
+77° Dia
+- js
+
+78° Dia
+- js
+
+79° Dia
+- java
